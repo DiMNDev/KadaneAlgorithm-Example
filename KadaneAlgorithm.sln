@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KadaneAlgorithm.Library", "KadaneAlgorithm.Library\KadaneAlgorithm.Library.csproj", "{88D63C5E-218F-4C17-9063-F947A51BC0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KadaneAlgorithm.Console", "KadaneAlgorithm.Console\KadaneAlgorithm.Console.csproj", "{98EE6A9C-EEA5-40E3-940D-1DB011C547FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KadaneAlgorithm.Blazor", "KadaneAlgorithm.Blazor\KadaneAlgorithm.Blazor.csproj", "{C09CCBA1-E10D-432C-A5AA-EF25AB510233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KadaneAlgorithm.Tests", "KadaneAlgorithm.Tests\KadaneAlgorithm.Tests.csproj", "{6A9FDEB8-E538-48E7-B4F0-F75F82141556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D63C5E-218F-4C17-9063-F947A51BC0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D63C5E-218F-4C17-9063-F947A51BC0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D63C5E-218F-4C17-9063-F947A51BC0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D63C5E-218F-4C17-9063-F947A51BC0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EE6A9C-EEA5-40E3-940D-1DB011C547FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EE6A9C-EEA5-40E3-940D-1DB011C547FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EE6A9C-EEA5-40E3-940D-1DB011C547FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EE6A9C-EEA5-40E3-940D-1DB011C547FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09CCBA1-E10D-432C-A5AA-EF25AB510233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09CCBA1-E10D-432C-A5AA-EF25AB510233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09CCBA1-E10D-432C-A5AA-EF25AB510233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09CCBA1-E10D-432C-A5AA-EF25AB510233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9FDEB8-E538-48E7-B4F0-F75F82141556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9FDEB8-E538-48E7-B4F0-F75F82141556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9FDEB8-E538-48E7-B4F0-F75F82141556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9FDEB8-E538-48E7-B4F0-F75F82141556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
